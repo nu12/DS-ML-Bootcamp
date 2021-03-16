@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 env
 *.h5
+*.txt
+logs
